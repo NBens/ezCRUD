@@ -7,3 +7,6 @@ A tool to generate CRUD pages for PHP applications, with support to multiple dat
 * Suitable JSON Structure
 * Generate Config File (PHP config)
 * Mix Templates With PHP Code
+
+# JSON File Structure:
+    Code
