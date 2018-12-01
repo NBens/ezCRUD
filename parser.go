@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 )
 
-// General Comment
+// General : Structure for the CRUD.json file
 type General struct {
 	Host   string            `json:"database_host"`
 	User   string            `json:"database_user"`

@@ -13,5 +13,5 @@ func main() {
 	json := ParseJSON(data)
 	tablesNames := json.TablesNames()
 	fmt.Println(tablesNames)
-	fmt.Println(json.FieldsOfTable("users").Create)
+	fmt.Println(json.FieldsOfTable("users").Update)
 }

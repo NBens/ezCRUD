@@ -13,7 +13,7 @@
         },
         "categories": {
             "create": ["name", "description"],
-            "read": ["id", "username"],
+            "read": ["id", "name"],
             "update": ["name", "description"],
             "delete": ["id", "name"]
         }
